@@ -8,6 +8,8 @@
 # 2. "Run the following command" - This means typing the command into the terminal at the command prompt and pressing Enter.
 # 3. Container = a Docker container, or GitHub container, or any other container that is used to run a program.
 #    This is sometimes called a "Runner" or "Environment" or "VM (erroneously)".
+# 4. Directory: Also known as a folder in Windows and Mac.  But the proper term is directory
+
 #
 ###############################################################################
 # INSTALLING THE GOOGLE CLOUD SDK AND CLI
