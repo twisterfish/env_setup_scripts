@@ -23,6 +23,8 @@
 #    directory). On macOS, this can be achieved by opening the downloaded .tar.gz 
 #    archive file in the preferred location.
 
+Windows
+
 # 3. Open a terminal and navigate to the extracted directory. For example, if you
 #    extracted the archive to your Home directory, you can use the following command:
 cd ~/google-cloud-sdk
